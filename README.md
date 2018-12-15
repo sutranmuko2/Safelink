@@ -1,0 +1,2 @@
+# Safelink
+Javascript Safelink Template
